@@ -44,7 +44,7 @@ Projet-Mobile-2025-main/
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/Projet-Mobile-2025-main.git
+git clone https://github.com/Ouerfelli-1/Projet-Mobile-2025.git
 cd Projet-Mobile-2025-main
 npm install
 ```
